@@ -6,6 +6,7 @@
 | ---- | ---- |
 |  FunDoneLearnのうた.mp3 |  Scrum Fest Sapporo 2022にて発表したバージョンです。  |
 |  FunDoneLearnのうた〜新春ver〜.mp3  |  Regional Scrum Gathering℠ Tokyo 2023にて発表したバージョンです。 |
+|  FunDoneLearnのうた(instrumental).mp3  |  皆で歌えるカラオケバージョンです。 |
 
 LICENSE: CC BY-NC-ND 4.0
 
